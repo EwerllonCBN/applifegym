@@ -2,7 +2,7 @@
 
 | Scripts          | Target                  |
 | ---------------- | ----------------------- |
-| `npm install`    | Install all dependences |
+| `yarn install`    | Install all dependences |
 | `npx expo start` | Run Expo App            |
 
 ## Design and Development
