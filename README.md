@@ -54,4 +54,4 @@ For the development of this project, the famous software architecture pattern th
 - Don't forget to run the api before authenticating to the project
 - Ignore the warns because I didn't have time to deal with them
 - I used Firebase to only integrate user authentication as requested in the test
-- Utilizei uma API externa que já havia sido criada para implementar os exercícios e informações do cartão
+- I used an external API that was already created to implement the exercises and information on the card
